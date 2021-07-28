@@ -34,54 +34,54 @@ body {
 		background-color: black;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: black;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: black;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: black;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: black;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: black;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: black;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: black;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: black;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: black;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: black;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: black;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: black;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: black;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: black;
 	}
 	50%{
 		background-color: #FFDAB9;
